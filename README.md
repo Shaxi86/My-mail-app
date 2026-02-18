@@ -1,5 +1,4 @@
-# My-mail-app
-My-mail-app
+
 <!DOCTYPE html>
 <html lang="he" dir="rtl">
 <head>
